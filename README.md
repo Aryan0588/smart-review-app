@@ -16,12 +16,10 @@ A **sentiment analysis web application** built with Flask that predicts whether 
 
 ## Getting Started
 
-### Step 1: Clone the repository
+Step 1: Clone the repository
 ```
 git clone https://github.com/Aryan0588/smart-review-app.git
-
-cd smart-review-app
-'''
+```
 
 Step 2: Open the cloned repository and create a conda environment. Activate the new environment
 ```
